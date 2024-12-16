@@ -8,7 +8,7 @@
  *  allows you to create drawings consisting of geometric shapes (e.g.,
  *  points, lines, circles, rectangles) in a window on your computer
  *  and to save the drawings to a file.
- *check
+ *
  *  Todo
  *  ----
  *    -  Don't show window until first unbuffered drawing command or call to show()
